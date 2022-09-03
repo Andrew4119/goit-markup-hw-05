@@ -599,8 +599,8 @@ img {
   letter-spacing: 0.03em;
   padding: 6px 22px 6px 22px;
   transition: color var(--transition-dur-and-func),
-    background-color var(--transition-dur-and-func) box-shadow
-      var(--transition-dur-and-func);
+    background-color var(--transition-dur-and-func),
+    box-shadow var(--transition-dur-and-func);
 }
 .button-list {
   display: flex;
